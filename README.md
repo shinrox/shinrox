@@ -44,10 +44,6 @@ ___
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=shinrox&count_private=true&show_icons=true&theme=swift&hide_border=true&custom_title=Github%20Stats&bg_color=00000000&hide=issues,stars" />
-</p>
-
-<p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinrox&layout=compact&theme=swift&hide_border=true&bg_color=00000000" />
 </p>
 
